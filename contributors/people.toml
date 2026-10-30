@@ -285,3 +285,6 @@ sync_github_name = true
 
 [people.MeltedHugo]
 real_name = "Ember"
+
+[people.dylanmtaylor]
+sync_github_name = true
